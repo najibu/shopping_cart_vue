@@ -5,7 +5,7 @@ const profile = {
 }
 
 const products = [
-  { 'id': 1, 'title': 'iPad 4 Mini', 'price': 500.01, 'iventory': 2, 'shipping': 15.00},
+  { 'id': 1, 'title': 'iPad 4 Mini', 'price': 500.01, 'iventory': 2, 'shipping': 15.00 },
   { 'id': 2, 'title': 'H&M T-Shirt White', 'price': 10.99, 'inventory': 10, 'shipping': 5.00 },
   { 'id': 3, 'title': 'Nirvana - LP', 'price': 19.99, 'inventory': 3, 'shipping': 22.50 },
   { 'id': 4, 'title': 'Licensed Steel Gloves', 'price': 30.99, 'inventory': 5, 'shipping': 9.00 },
@@ -20,7 +20,7 @@ const products = [
 ]
 
 const promotions = [
-  { 'id': 1, 'title': '30% OFF'},
+  { 'id': 1, 'title': '30% OFF' },
   { 'id': 2, 'title': '$100.00 Discount' },
   { 'id': 3, 'title': 'Free Shipping' },
   { 'id': 4, 'title': '+ $100.00 on limit' }

@@ -1,7 +1,7 @@
 <template>
   <div>
     <page-header></page-header>
-
+    <h1>Showing..</h1>
     <div class="container">
       <coupons></coupons>
 
